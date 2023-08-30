@@ -1,0 +1,317 @@
+/* ====================PENGATURAN AWAL DIMULAI==================== */
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
+
+:root {
+    --warna-utama: #a7a9be;
+    --warna-tajuk: #fffffe;
+    --warna-basis: #1f1d30;
+    --warna-basis2: #0f0e17;
+    --warna-merek: #a7a9be;
+    --warna-merek2: #fffffe;
+    --lebar-barsamping: 240px;
+    --tulisan: "Bai Jamjuree";
+}
+
+body {
+    background-color: var(--warna-basis2);
+    color: var(--warna-utama);
+    font-family: var(--tulisan), sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--warna-tajuk);
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: var(--warna-utama);
+    transition: all 0.4s ease;
+}
+
+a:hover {
+    color: var(--warna-merek);
+}
+
+img {
+    width: 100%;
+}
+
+.teks_merek {
+    color: var(--warna-merek);
+}
+
+.basis-latar_belakang {
+    background-color: var(--warna-basis);
+}
+
+.ketinggian {
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.efek_bayangan {
+    transition: all 0.5s;
+}
+
+.efek_bayangan:hover {
+    box-shadow: -6px 6px 0 0 var(--warna-merek);
+}
+
+.kotak_ikon {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    background-color: var(--warna-merek);
+    color: var(--warna-basis);
+}
+
+.tombol {
+    padding: 12px 28px;
+    font-weight: 700;
+}
+
+.tombol_merek {
+    background-color: var(--warna-merek);
+    border-color: var(--warna-merek);
+    color: var(--warna-basis);
+}
+
+.tombol_merek:hover,
+.tombol_merek:focus {
+    background-color: var(--warna-merek2);
+    color: var(--warna-basis);
+    border-color: var(--warna-merek2);
+}
+
+.tautan {
+    font-weight: 700;
+    position: relative;
+}
+
+.tautan::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background-color: var(--warna-merek2);
+    position: absolute;
+    left: 0;
+    top: 110%;
+    transition: all 0.4s;
+}
+
+.tautan:hover::after {
+    width: 100%;
+}
+
+.kartu .gambar_kartu {
+    overflow: hidden;
+}
+
+.kartu .gambar_kartu img {
+    transition: all 0.4s ease;
+}
+
+.kartu:hover .gambar_kartu img {
+    transform: scale(1.1);
+}
+
+/* ====================PENGATURAN AWAL DIAKHIRI==================== */
+
+/* ====================NAVIGASI BAR DIMULAI==================== */
+.navigasi_bar {
+    background-color: var(--warna-basis);
+}
+
+.navigasi_bar .nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.navigasi_bar .nav-link:hover {
+    color: var(--warna-merek);
+}
+
+.navigasi_bar .nav-link.active {
+    color: var(--warna-merek);
+}
+
+/* ====================NAVIGASI BAR DIMULAI==================== */
+
+/* ====================KEAHLIAN DIMULAI==================== */
+.wadah_kemajuan {
+    height: 10px;
+    background-color: var(--warna-basis2);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.bar_kemajuan {
+    height: 100%;
+    width: 0;
+    background-color: var(--warna-basis2);
+    border-radius: 5px;
+    transition: width 0.5s;
+}
+
+.animasi_html .bar_kemajuan {
+    width: 100%;
+    background-color: var(--warna-merek);
+    border-radius: 5px;
+    animation: fill_html 2s ease-in-out forwards;
+}
+
+.animasi_css .bar_kemajuan {
+    width: 100%;
+    background-color: var(--warna-merek);
+    border-radius: 5px;
+    animation: fill_css 2s ease-in-out forwards;
+}
+
+.animasi_js .bar_kemajuan {
+    width: 100%;
+    background-color: var(--warna-merek);
+    border-radius: 5px;
+    animation: fill_js 2s ease-in-out forwards;
+}
+
+.animasi_git .bar_kemajuan {
+    width: 100%;
+    background-color: var(--warna-merek);
+    border-radius: 5px;
+    animation: fill_git 2s ease-in-out forwards;
+}
+
+.animasi_bootstrap .bar_kemajuan {
+    width: 100%;
+    background-color: var(--warna-merek);
+    border-radius: 5px;
+    animation: fill_bootstrap 2s ease-in-out forwards;
+}
+
+@keyframes fill_html {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+
+@keyframes fill_css {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 80%;
+    }
+}
+
+@keyframes fill_js {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+
+@keyframes fill_git {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+
+@keyframes fill_bootstrap {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 90%;
+    }
+}
+
+/* ====================KEAHLIAN DIAKHIRI==================== */
+
+/* ====================KONTAK DIMULAI==================== */
+#kontak .kontrol {
+    background-color: var(--warna-basis);
+    border-color: var(--warna-basis);
+    color: var(--warna-utama);
+}
+
+#kontak .kontrol:focus {
+    border-color: var(--warna-merek);
+    box-shadow: none;
+}
+
+#kontak .kontrol::placeholder {
+    color: var(--warna-utama);
+}
+
+#kontak input.kontrol {
+    height: 44px;
+}
+
+/* ====================KONTAK DIAKHIRI==================== */
+
+/* ====================IKON SOSIAL DIMULAI==================== */
+.ikon_sosial a {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--warna-basis);
+    border-radius: 100px;
+    font-size: 24px;
+}
+
+.ikon_sosial a:hover {
+    background-color: var(--warna-basis2);
+}
+
+/* ====================IKON SOSIAL DIAKHIRI==================== */
+
+@media (min-width: 992px) {
+    .navigasi_bar {
+        min-height: 100vh;
+        width: var(--lebar-barsamping);
+        background: linear-gradient(rgb(31, 29, 48, .9), rgb(31, 29, 48, .8)), url(../images/bar_samping.png);
+        background-size: cover;
+        background-position: 350px;
+    }
+
+    .navigasi-bar_merek img {
+        border: 8px solid var(--warna-merek);
+    }
+
+    /* PEMBUNGKUS KONTEN */
+    #pembungkus_konten {
+        padding-left: var(--lebar-barsamping);
+    }
+}
