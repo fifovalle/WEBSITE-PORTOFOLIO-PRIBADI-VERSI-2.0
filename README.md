@@ -1,10 +1,32 @@
-# PORTOFOLIO-SEDERHANA-VERSI-2.0
-Portofolio ini hanya menggunakan html css javascript serta framework bootstrap
+**Website Portofolio Pribadi Versi 2.0 - README**
 
-![Screenshot 2023-08-21 162056](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/524ae244-ac74-4e21-a7b6-46e7c8d99093)
-![Screenshot 2023-08-21 162115](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/b5f09ce7-6f7c-4292-825d-44db368edc09)
-![Screenshot 2023-08-21 163820](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/db1b6dce-75fa-4d70-af70-e1922f1ff5e6)
-![Screenshot 2023-08-21 162142](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/8216ed04-cf69-4b57-8bea-bbf16611c0a8)
-![Screenshot 2023-08-21 162151](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/a4b6f32d-701f-4570-939d-48314ddfb455)
-![Screenshot 2023-08-21 162202](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/29788d4e-39ab-478b-aac3-fc3c30b21c21)
-![Screenshot 2023-08-21 162215](https://github.com/fifovalle/PORTOFOLIO-SEDERHANA-VERSI-2.0/assets/90078068/94716e47-c0ab-4535-b453-4c27faada2a5)
+![Screenshot 2023-08-30 133640](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/69d7a7f7-4295-4ff1-8ebb-01ab11a28143)
+![Screenshot 2023-08-30 133651](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/a17d0897-1278-4e90-9403-59da60896ca2)
+![Screenshot 2023-08-30 133707](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/0b37f2dd-6ae0-40f1-8570-e10f007e7c9b)
+![Screenshot 2023-08-30 133716](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/933ced45-d721-4437-bc5a-4d73bac06ece)
+![Screenshot 2023-08-30 133728](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/b270d03a-b110-4d10-b4dd-be513df7c61c)
+![Screenshot 2023-08-30 133736](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/9c59484e-2d8e-4952-b8b9-2e3baf9b8ea3)
+
+Selamat datang di Website Portofolio Pribadi Versi 2.0 saya di GitHub! 🚀
+
+Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat lunak. Dari aplikasi web hingga proyek mobile, temukan ragam proyek yang mencerminkan dedikasi saya dalam teknologi.
+
+## 📂 Navigasi Proyek
+
+- **Beranda:** Kenali lebih lanjut tentang latar belakang dan minat saya.
+- **Keahlian:** Daftar keahlian kunci yang saya kuasai.
+- **Proyek Utama:** Temukan proyek utama terbaru dan peran saya di dalamnya.
+- **Proyek Tambahan:** Lihat proyek sampingan yang juga menarik perhatian.
+- **Kontak:** Hubungi saya untuk kolaborasi, diskusi, atau pertanyaan.
+
+## 🛠️ Keterampilan
+
+- Bahasa Pemrograman: JavaScript.
+- Pengembangan Web: HTML, CSS.
+- Kerangka Kerja: Bootstrap.
+
+## 📬 Kontak
+
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatApp](https://wa.me/+6281223652490).
+
+Terima kasih telah mengunjungi Website Portofolio Pribadi Versi 2.0 saya di GitHub! 🙌
