@@ -1,11 +1,12 @@
 **Website Portofolio Pribadi Versi 2.0 - README**
 
-![Screenshot 2023-08-30 133640](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/69d7a7f7-4295-4ff1-8ebb-01ab11a28143)
-![Screenshot 2023-08-30 133651](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/a17d0897-1278-4e90-9403-59da60896ca2)
-![Screenshot 2023-08-30 133707](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/0b37f2dd-6ae0-40f1-8570-e10f007e7c9b)
-![Screenshot 2023-08-30 133716](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/933ced45-d721-4437-bc5a-4d73bac06ece)
-![Screenshot 2023-08-30 133728](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/b270d03a-b110-4d10-b4dd-be513df7c61c)
-![Screenshot 2023-08-30 133736](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/9c59484e-2d8e-4952-b8b9-2e3baf9b8ea3)
+![261982847-524ae244-ac74-4e21-a7b6-46e7c8d99093](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/a86f061f-8572-40d2-b134-f478c6c1343f)
+![261982855-b5f09ce7-6f7c-4292-825d-44db368edc09](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/232726ab-4c20-4f0e-8513-dac0ff13c93c)
+![261983736-db1b6dce-75fa-4d70-af70-e1922f1ff5e6](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/1ee33d67-8127-4c12-861d-d0884dc26b18)
+![261982867-8216ed04-cf69-4b57-8bea-bbf16611c0a8](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/ba8bcbec-9365-4bfa-844b-2b496ecd1cd2)
+![261982819-a4b6f32d-701f-4570-939d-48314ddfb455](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/f0b0424e-c71e-4b1e-938a-46e3570c7033)
+![261982836-29788d4e-39ab-478b-aac3-fc3c30b21c21](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/7f7eec76-3f4f-4e4a-b466-6816247f1cd0)
+![261982841-94716e47-c0ab-4535-b453-4c27faada2a5](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/4c263203-3ca7-45f6-945b-7851c67a30c5)
 
 Selamat datang di Website Portofolio Pribadi Versi 2.0 saya di GitHub! 🚀
 
