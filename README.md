@@ -49,7 +49,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0.git
+   git clone https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0.git
    ```
    
 2. Buka file `index.html` di peramban web Anda.
