@@ -26,7 +26,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ## 📷 Preview Halaman
 
-Berikut adalah beberapa cuplikan tampilan halaman website :
+Berikut adalah beberapa tampilan halaman website :
 
 ![261982847-524ae244-ac74-4e21-a7b6-46e7c8d99093](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/a86f061f-8572-40d2-b134-f478c6c1343f)
 ![261982855-b5f09ce7-6f7c-4292-825d-44db368edc09](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-2.0/assets/90078068/232726ab-4c20-4f0e-8513-dac0ff13c93c)
@@ -38,7 +38,7 @@ Berikut adalah beberapa cuplikan tampilan halaman website :
 
 ## 📬 Kontak
 
-Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6281223652490).
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6282318334287).
 
 ### 🙏 Kontribusi
 
